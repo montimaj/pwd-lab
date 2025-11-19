@@ -1,10 +1,10 @@
-# GWARS Lab Webpage
+# Planetary Water Dynamics Lab Webpage
 
-This repository contains the source code for the GWARS Lab website, hosted via GitHub Pages.
+This repository contains the source code for the Planetary Water Dynamics Lab website, hosted via GitHub Pages.
 
 ## About
 
-This project is the official website for the GWARS Lab, showcasing our research, team, and publications.
+This project is the official website for the Planetary Water Dynamics Lab, showcasing our research, team, and publications.
 
 ## Local Development
 
